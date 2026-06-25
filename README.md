@@ -379,16 +379,3 @@ sudo tc qdisc del dev lo root
 
 ---
 
-## Authors & Acknowledgments
-
-**Authors:**
-- Ketaki — Multi-agent system design, benchmarking infrastructure, network analysis, visualizations
-- Nayoneeka Paul — Anomaly detection, packet capture analysis, cybersecurity track
-
-**Acknowledgments:**
-- Prof. Roberto Morabito (EURECOM) — Project supervision and guidance
-- Adel — GPU/Ollama infrastructure setup on JupyterHub
-
----
-
-*EURECOM Master's Research Project, 2026*
