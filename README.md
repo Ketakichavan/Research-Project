@@ -2,7 +2,6 @@
 
 > Benchmarking Coordinator-Worker, Peer-to-Peer, and Negotiation patterns for edge-deployed LLM agents under realistic and simulated network impairments.
 
-**EURECOM Master's Research Project — Supervisor: Prof. Roberto Morabito**
 
 ---
 
